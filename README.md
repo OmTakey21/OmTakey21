@@ -14,3 +14,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👋 Hi there, I'm [Your Name]!
+
+🚀 I'm a passionate and driven software developer with a strong foundation in backend development and modern web technologies. I enjoy building scalable, efficient, and user-focused applications using a wide range of tools and technologies.
+
+---
+
+### 💼 Tech Stack
+
+**🧠 Core & Backend Development:**  
+Java • Spring Boot • Microservices Architecture
+
+**🌐 Web Development:**  
+HTML • CSS • Bootstrap • JavaScript • Angular
+
+**🗄️ Databases:**  
+MySQL • Oracle
+
+**🧰 Tools & IDEs:**  
+VS Code • Eclipse IDE • JIRA • Git • GitHub
+
+**💻 Operating Systems:**  
+Linux • Windows
+
+**☁️ Cloud Platforms (AWS):**  
+IAM • EC2 • RDS • Elastic Beanstalk • Lambda • S3
+
+---
+
+### 📌 About Me
+
+- 🔨 Currently building RESTful services and full-stack applications.
+- 📘 Always learning and exploring new technologies in cloud and backend development.
+- 🧩 Strong problem-solving mindset with a focus on clean, maintainable code.
+- 🌱 Actively enhancing my skills in AWS and DevOps practices.
+
+---
+
+### 📫 Let's Connect
+
+- 📧 Email: [omtakey18@gmail.com]  
+- 💼 LinkedIn: [https://www.linkedin.com/in/omtakey/]  
+- 🌐 Portfolio: [your portfolio link, if any]
+
+Thanks for stopping by! Feel free to check out my repositories 

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there, I'm [Your Name]!
+### 👋 Hi there, I'm Om Takey!
 
 🚀 I'm a passionate and driven software developer with a strong foundation in backend development and modern web technologies. I enjoy building scalable, efficient, and user-focused applications using a wide range of tools and technologies.
 
@@ -54,8 +54,8 @@ IAM • EC2 • RDS • Elastic Beanstalk • Lambda • S3
 
 ### 📫 Let's Connect
 
-- 📧 Email: [omtakey18@gmail.com]  
-- 💼 LinkedIn: [https://www.linkedin.com/in/omtakey/]  
+- 📧 Email: omtakey18@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/omtakey/  
 - 🌐 Portfolio: [your portfolio link, if any]
 
 Thanks for stopping by! Feel free to check out my repositories 

@@ -56,6 +56,6 @@ IAM • EC2 • RDS • Elastic Beanstalk • Lambda • S3
 
 - 📧 Email: omtakey18@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/omtakey/  
-- 🌐 Portfolio: [your portfolio link, if any]
+- 🌐 Portfolio: https://omtakey21.github.io/My-Portfolio/
 
 Thanks for stopping by! Feel free to check out my repositories 
